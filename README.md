@@ -1,4 +1,5 @@
 <div align="center">
+    
 # 🚀 Avenix
 
 **A lightweight, type-safe Python tracing library for AI & LLM requests with breathtaking terminal output.**
